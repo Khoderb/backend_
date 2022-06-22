@@ -1,5 +1,4 @@
 const fs = require('fs')
-const { writer } = require('repl')
 const Container = require('./index.js')
 
 const container = new Container('products')
@@ -46,7 +45,7 @@ const testDeleteAll = () => {
     container.deleteAll()
     console.log("\nAll Items Have Been Deleted Correctly ( deleteAll() )")
     console.log(container.getAll())
-    // fileWriter([])
+    fileWriter([])
     console.log('\nProgram finished')
 }
 
