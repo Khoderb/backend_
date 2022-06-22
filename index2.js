@@ -12,7 +12,7 @@ const fileReader = async () => {
         testSave(products);
 
         // getById
-        testGetById(products[0].id);
+        testGetById(products[4].id);
         
         // deleteById
         testDeleteById(products[2].id);
@@ -30,7 +30,7 @@ const testSave = products => {
     products.forEach(item =>
         container.save(item)
     );
-    console.log("\nObjects Saved Correctly With Their Respective ID ( save (item) )")
+    console.log("\nAll Products Has Been Saved Correctly With Their Respective ID ( save (item) )")
 }
 const testGetById = id => {
     console.log(`\nItem Has Been Retrieved Correctly ( getById(${id}) ):\n`)
@@ -59,4 +59,5 @@ const fileWriter = async data => {
 }
 
 fileReader()
+//All products will be deleted after 25 seconds
 setTimeout(testDeleteAll, 25000)

@@ -2,27 +2,22 @@
   {
     "title": "BIKE",
     "price": 400,
-    "thumbnail": "undefined"
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_773536-MLA48483146366_122021-V.webp"
   },
   {
     "title": "used IPHONE 8",
     "price": 1100,
-    "thumbnail": "undefined"
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_773536-MLA48483146366_122021-V.webp"
   },
   {
     "title": "used IPHONE 11 ",
     "price": 1500,
-    "thumbnail": "undefined"
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_724631-MLA46114990506_052021-V.webp"
   },
-  {
-    "title": "used IPHONE 11 ",
-    "price": 1500,
-    "thumbnail": "undefined"
-  },
-  {
-    "title": "used SAMSUNG S18 ",
-    "price": 1000,
-    "thumbnail": "undefined"
+    {
+    "title": "used SAMSUNG S22 ultra ",
+    "price": 1200,
+    "thumbnail": "http://medias.musimundo.com/medias/00510020-145433-145433-01-145433-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w4ODcyOXxpbWFnZS9qcGVnfGg1Yy9oNmUvMTAzODE1Nzg4Mjk4NTQvMDA1MTAwMjAtMTQ1NDMzLTE0NTQzM18wMS0xNDU0MzNfMDEuanBnX3NpemU1MTV8MWQ1MWM5YmJlNGZkMWM0MmE0N2Q4MjViNzhlYzBiNzAyNzdiYWQ4YjhhMDM2OTM0MDczYzY3MjEzMjQ1OGRjYQ"
   },
   {
     "title": "SAMSUNG S22 ",
