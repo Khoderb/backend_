@@ -2,61 +2,56 @@
   {
     "title": "BIKE",
     "price": 400,
-    "thumbnail": "undefined",
-    "id": "1g66dldks5576i2ndh9"
+    "thumbnail": "undefined"
   },
   {
     "title": "used IPHONE 8",
     "price": 1100,
-    "thumbnail": "undefined",
-    "id": "1g66dldksmh5a6evao0g"
+    "thumbnail": "undefined"
   },
   {
     "title": "used IPHONE 11 ",
     "price": 1500,
-    "thumbnail": "undefined",
-    "id": "1g66dldks2022ka726ao"
+    "thumbnail": "undefined"
+  },
+  {
+    "title": "used IPHONE 11 ",
+    "price": 1500,
+    "thumbnail": "undefined"
   },
   {
     "title": "used SAMSUNG S18 ",
     "price": 1000,
-    "thumbnail": "undefined",
-    "id": "1g66dldksir2vgrfs4"
+    "thumbnail": "undefined"
   },
   {
     "title": "SAMSUNG S22 ",
     "price": 1900,
-    "thumbnail": "undefined",
-    "id": "1g66dldks41leejamti8"
+    "thumbnail": "undefined"
   },
   {
     "title": "used SAMSUNG S20 ",
     "price": 1400,
-    "thumbnail": "undefined",
-    "id": "1g66dldks79m626c69b"
+    "thumbnail": "undefined"
   },
   {
     "title": "used SAMSUNG S22 ",
     "price": 1500,
-    "thumbnail": "undefined",
-    "id": "1g66dldks2c4g44gv2a8"
+    "thumbnail": "undefined"
   },
   {
     "title": "FREEZER",
     "price": 1300,
-    "thumbnail": "undefined",
-    "id": "1g66dldksfhn99agnoog"
+    "thumbnail": "undefined"
   },
   {
     "title": " LCD SAMSUNG 32' ",
     "price": 1500,
-    "thumbnail": "undefined",
-    "id": "1g66dldks36llprcpvfo"
+    "thumbnail": "undefined"
   },
   {
     "title": "Tablet SAMSUNG ",
     "price": 1500,
-    "thumbnail": "undefined",
-    "id": "1g66dldkstrome5j97dg"
+    "thumbnail": "undefined"
   }
 ]
